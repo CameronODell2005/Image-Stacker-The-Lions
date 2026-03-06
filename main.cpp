@@ -45,16 +45,13 @@
 
         //first image initializes pixel vector
         if (i == 1)
-            stacker.loadImage(filename);
-        else
-            stacker.addImage(filename);
+            stacker.stackImages(name, num);
     }
-
-    //compute average pixel values
-    stacker.averagePixels(num);
 
     //output filename
     string output = name + ".ppm";
+
+    stacker.writeImage(output);
 
     cout << "\nStacking succeeded.\n";
     cout << "Output written to: " << output << endl;
