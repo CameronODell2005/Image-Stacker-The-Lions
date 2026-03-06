@@ -3,8 +3,7 @@
     Group Name: The Lions
     Group Members: Brandon Daniel and Cameron O'Dell
     Course: CSCI325
-    Description: 
-    Implements the Stacker class for reading, stacking,
+    Description: Implements the Stacker class for reading, stacking,
     and writing ASCII PPM (P3) images.
 */
 #include "stacker.h"

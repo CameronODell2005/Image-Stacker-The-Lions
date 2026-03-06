@@ -1,6 +1,6 @@
 # Image-Stacker-The-Lions
 PPM Image Stacker
-Author: Brandon Daniel and Cameron O'Dell
+Author: Brandon Daniel and Cameron O'Dell (The Lions)
 
 Description:
 This program reads multiple ASCII PPM (P3) image files of the same object,

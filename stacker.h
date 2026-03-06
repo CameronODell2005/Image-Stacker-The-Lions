@@ -3,8 +3,7 @@
     Group Name: The Lions
     Group Members: Brandon Daniel and Cameron O'Dell
     Course: CSCI325
-    Description: 
-    Declares the Stacker class used to read multiple PPM images,
+    Description: Declares the Stacker class used to read multiple PPM images,
     average their pixel values, and write the final stacked image.
 */
 #ifndef STACKER_H
